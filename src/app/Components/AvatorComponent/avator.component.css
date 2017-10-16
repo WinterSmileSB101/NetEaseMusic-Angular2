@@ -1,0 +1,45 @@
+.avator-img{
+    border-radius: 50%;
+    border: 0.3px solid gray;
+    width: 50px;
+    height: 50px;
+    float: left;
+}
+.avator-img:hover{
+    border-radius: 50%;
+    border: 0.3px solid gray;
+    width: 50px;
+    height: 50px;
+    float: left;
+    cursor: pointer;
+}
+
+.avator-body{
+    height: 50px;
+    text-align: center;
+    align-content: center;
+    vertical-align: center;
+}
+
+.avator-nickname{
+    height: 50px;
+    margin: 0px;
+    margin-left: 20px;
+    text-align: center;
+    align-content: center;
+    color: black;
+    padding: 0px;
+    display: inline-block;
+    line-height: 50px;
+}
+.avator-nickname:hover{
+    height: 50px;
+    margin: 0px;
+    margin-left: 20px;
+    text-align: center;
+    align-content: center;
+    color: black;
+    display: inline-block;
+    cursor: pointer;
+    line-height: 50px;
+}

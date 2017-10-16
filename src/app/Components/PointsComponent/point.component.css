@@ -1,0 +1,15 @@
+.point-ul{
+    list-style: none;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px;
+}
+.point-ul li{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.point-top{
+    margin-top: 0px;
+    border-top: 0.5px solid #C9C3C3;
+}

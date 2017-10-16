@@ -1,0 +1,23 @@
+.sign-button{
+    border: 0.5px solid black;
+    border-radius: 5px;
+    background-color: white;
+    color: black;
+    width: 80px;
+}
+
+.sign-button:hover{
+    border: 0.5px solid black;
+    border-radius: 5px;
+    background-color: white;
+    width: 80px;
+    cursor: pointer;
+}
+
+.sign-button-sign{
+    border: 0.5px solid gray;
+    border-radius: 5px;
+    background-color: white;
+    color: gray;
+    width: 80px;
+}

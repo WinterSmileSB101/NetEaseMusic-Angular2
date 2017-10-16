@@ -1,0 +1,31 @@
+.property-body{
+    margin: 0px;
+    align-content: center;
+    text-align: center;
+}
+
+.property-leftboder{
+    border-left: 0.1px solid gray;
+}
+
+.property-rightboder{
+    border-right: 0.1px solid gray;
+}
+
+.property-body:hover{
+    align-content: center;
+    text-align: center;
+    cursor: pointer;
+}
+
+.property-body:hover .property-text{
+    align-content: center;
+    text-align: center;
+    cursor: pointer;
+    color: black;
+}
+
+.property-text{
+    margin: 0px;
+    color: gray;
+}
